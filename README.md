@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Felipe Alves
+# 👋 Olá! Meu nome é Felipe Alves
 
 ### 🧠 Sobre mim
 
