@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Felipe Alves
 
-<!--
-**AlvesFelipe7/AlvesFelipe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Sobre mim
 
-Here are some ideas to get you started:
+Sou um profissional apaixonado por **dados** e sua capacidade de gerar insights estratégicos. Com experiência prática em **SQL**, **Python** e **Power BI**, venho desenvolvendo soluções que otimizam processos, melhoram a tomada de decisão e impulsionam resultados. Aqui no GitHub, compartilho projetos voltados para:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Análise de dados exploratória e preditiva**  
+- ⚙️ **Automação de processos com Python**  
+- 📊 **Dashboards interativos com Power BI**  
+- 🔄 **ETL e manipulação de grandes volumes de dados**  
+- 📈 **Modelagem e visualização de dados**
+
+Sempre em busca de aprendizado contínuo, estou aberto a colaborações e novas ideias. 🚀
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL  
+- **BI & Visualização:** Power BI, Excel Avançado  
+- **ETL & Automação:** Python, Power Automate  
+- **Cloud:** Azure, AWS, Google Cloud (nível introdutório)
+
+---
+
+### 📫 Contato
+
+- **LinkedIn:** [felipealves77](https://www.linkedin.com/in/felipealves77)  
+- **Email:** alves.felipe7@outlook.com
